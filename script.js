@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Set Valentine's Day date
-    const valentinesDay = new Date('2025-02-14T20:00:00');
+    const valentinesDay = new Date('2025-02-14T22:00:00');
 
     function updateTimer() {
         const now = new Date();
